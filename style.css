@@ -1,0 +1,44 @@
+h1 {
+    color: rgb(12, 120, 55);
+    font: sans-serif;
+    text-align: center;
+}
+ .para1 {
+color:rgb(21, 102, 44);
+font: bolder;
+}
+main img{
+    width: 600px;
+    margin-bottom: 30px;
+    
+    }
+::backdrop{
+    color: rgb(30, 110, 61);
+}
+form{
+    margin-left: 200px;
+}
+form label{
+    font-size: 20px;
+    margin-right:50px;
+}
+form input{
+    margin-top: 20px;
+    width: 50%;
+}
+.para2{max-width: 70%;
+    
+margin-left: 30%;
+color: rgb(20, 95, 39);
+margin-top: 0;
+font:bolder;
+}
+main ul{
+    display: block;
+}
+*{
+    background: rgb(226, 205, 138);
+}
+footer hr {
+    color: rgb(17, 80, 40);
+}
